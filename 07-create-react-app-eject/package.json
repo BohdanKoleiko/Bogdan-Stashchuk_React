@@ -32,7 +32,7 @@
     "jest-resolve": "^27.4.2",
     "jest-watch-typeahead": "^1.0.0",
     "mini-css-extract-plugin": "^2.4.5",
-    "postcss": "^8.4.32",
+    "postcss": "^8.5.11",
     "postcss-flexbugs-fixes": "^5.0.2",
     "postcss-loader": "^6.2.1",
     "postcss-normalize": "^10.0.1",
@@ -55,7 +55,7 @@
     "webpack": "^5.64.4",
     "webpack-dev-server": "^5.2.3",
     "webpack-manifest-plugin": "^4.0.2",
-    "workbox-webpack-plugin": "^7.4.0"
+    "workbox-webpack-plugin": "^7.4.1"
   },
   "scripts": {
     "start": "node scripts/start.js",
